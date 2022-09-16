@@ -70,10 +70,10 @@ a{
 }
 .fa-magnifying-glass, .fa-lock{
     font-size: 15px;
-    color: #fff;
+    color: rgb(111, 68, 68);
 }
 .line{
-    color: #fff;
+    color: rgb(61, 32, 32);
     font-size: 17px;
 }
 .logo{
